@@ -1,0 +1,16 @@
+{
+  "name": "js-data-test",
+  "version": "1.0.0",
+  "description": "Test for js-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Werner de Groot",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.4.1",
+    "js-data": "^1.8.0",
+    "js-data-angular": "^2.4.0"
+  }
+}
